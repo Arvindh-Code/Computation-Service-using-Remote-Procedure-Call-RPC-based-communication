@@ -88,3 +88,8 @@ Java version - Any version of java 8 later. I used 11.0.17.
 ## Conclusion
 
 This project demonstrates the use of Java RMI for building a simple RPC system. Users can interact with the server to perform file operations and computation tasks synchronously and asynchronously. The periodic file synchronization ensures consistency between the client and server file directories.
+
+## Author
+
+- Aravindh Gopalsamy
+- gopal98aravindh@gmail.com
