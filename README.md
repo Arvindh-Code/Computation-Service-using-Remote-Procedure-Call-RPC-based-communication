@@ -93,3 +93,11 @@ This project demonstrates the use of Java RMI for building a simple RPC system. 
 
 - Aravindh Gopalsamy
 - gopal98aravindh@gmail.com
+
+## License
+
+This project is not open for external use or distribution. All rights reserved.
+
+## Important Note for Students
+
+**Warning:** This code is intended for educational purposes only. Please do not use this code for any assignment, and consider it as a reference implementation. Use your own implementation for academic assignments.
